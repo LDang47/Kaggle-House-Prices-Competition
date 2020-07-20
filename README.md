@@ -1,5 +1,4 @@
-# MMA-867-Kaggle-House-Prices-Competition
-MMA 867: Individual Assignment 1 - Kaggle House Prices Competition
+# Kaggle-House-Prices-Competition
 Competition name: House Prices: Advanced Regression Techniques
 
 Competition link: https://www.kaggle.com/c/house-prices-advanced-regression-techniques
